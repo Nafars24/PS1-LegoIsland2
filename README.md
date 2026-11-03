@@ -23,12 +23,12 @@ The patch rewrites the in-game subtitle and menu text stored in `PSXFILE` in pla
 
 ## Screenshots
 
-| Original | Translated |
-|:---:|:---:|
-| ![](docs/screenshots/01-menu-en.png) | ![](docs/screenshots/01-menu-id.png) |
-| ![](docs/screenshots/02-dialogue-en.png) | ![](docs/screenshots/02-dialogue-id.png) |
-| ![](docs/screenshots/03-minigame-en.png) | ![](docs/screenshots/03-minigame-id.png) |
-| ![](docs/screenshots/04-memcard-en.png) | ![](docs/screenshots/04-memcard-id.png) |
+<table>
+  <tr>
+    <td><img src="docs/screenshots/01-id.png" width="400" alt="Screenshot 1"></td>
+    <td><img src="docs/screenshots/02-id.png" width="400" alt="Screenshot 2"></td>
+  </tr>
+</table>
 
 ## Status
 
@@ -165,8 +165,7 @@ For rendering bugs, include a screenshot, the emulator and version, and the row 
 
 ## Credits
 
-- Translation and file format analysis: [your name]
-- Translation drafting and tooling assistance: Claude (Anthropic)
+- The Handsome Guy: [Nopal]
 - Original game: LEGO Media, developed by Silicon Dreams Studio
 
 ## Legal
